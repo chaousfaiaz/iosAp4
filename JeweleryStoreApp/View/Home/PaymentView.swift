@@ -1,9 +1,8 @@
 //
 //  PaymentView.swift
-//  TouchDownApp
+//  JewelryStoreApp
 //
-//  Created by Fatima Bdair on 2025-03-10.
-//
+//  Created by MD FAIAZ on 2026-07-01.
 
 import SwiftUI
 struct PaymentView: View {
