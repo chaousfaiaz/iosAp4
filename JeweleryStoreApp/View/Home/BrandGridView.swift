@@ -1,8 +1,8 @@
 //
 //  BrandGridView.swift
-//  TouchDownApp
+//  JewelryStoreApp
 //
-//  Created by Louise Rennick on 2025-03-05.
+//  Created by MD FAIAZ on 2026-07-01.
 //
 
 import SwiftUI
