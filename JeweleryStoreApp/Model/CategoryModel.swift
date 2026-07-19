@@ -1,6 +1,6 @@
 //
 //  CategoryModel.swift
-//  TouchDownApp
+//  Jewelry Store App
 //
 //  Created by MD FAIAZ on 2026-07-01.
 //
